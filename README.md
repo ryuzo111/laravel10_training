@@ -67,3 +67,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## 構築時の詳細
 https://ramble.impl.co.jp/3400/
+
+## やりたいこと
+mongoDBを入れて、MySQLと同時に繋いで使い分けてみたい
